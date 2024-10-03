@@ -1,6 +1,6 @@
 # Spectral_Analysis_GCS_public
 
-This repository contains the datasets and MATLAB codes for spectral analysis, coherence analysis and the associated statistical analysis in "Introducing the spectral slope and coherence as critical characteristics describing a river corridor’s topographic regime" by Anzy Lee, Belize Lane, and Gregory B. Pasternack. 
+This repository contains the datasets and MATLAB codes for spectral analysis, coherence analysis and the associated statistical analysis in "Spectral slope and coherence quantitatively summarize nested topographic variability patterns in rivers" by Anzy Lee, Belize Lane, and Gregory B. Pasternack. 
 
 ## spectral_analysis.m
 

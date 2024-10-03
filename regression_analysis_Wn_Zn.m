@@ -105,7 +105,7 @@ for variable = ["Zn"]
             ylabel("Spectral slope of Zn", "FontSize", 17)
             str = "y = "+a+"x^{"+b+"}, R^2 = "+R2;
             dim = [0.44, 0.15, 0.1, 0.1];
-            ylim([0,3])
+            ylim([0.5,2.5])
         else
             xlabel("Spectral slope of Zn", "FontSize", 17)
             ylabel("Spectral slope of Wn", "FontSize", 17)
