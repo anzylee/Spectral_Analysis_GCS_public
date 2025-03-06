@@ -175,6 +175,7 @@ for channel_type = 1:5
     set(gca, 'FontSize', 16)
 
     saveas(gcf, path_fig+"\sig_freq\SC0"+num2str(channel_type)+"_scatterhist.png")
+    saveas(gcf, path_fig+"\sig_freq\SC0"+num2str(channel_type)+"_scatterhist.pdf")
     
     figure(fcip_cust)
     if channel_type == 1
@@ -237,3 +238,4 @@ set(gca, 'FontSize', 16)
 
 
 saveas(gcf, path_fig+"\sig_freq\SC0"+num2str(channel_type)+"_scatterhist_all.png")
+saveas(gcf, path_fig+"\sig_freq\SC0"+num2str(channel_type)+"_scatterhist_all.pdf")
